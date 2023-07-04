@@ -10,4 +10,4 @@ management:
 
 greeting-service:
   greeting: "Hello"
-  default-value: "god"
+  default-value: "god, i love you"
